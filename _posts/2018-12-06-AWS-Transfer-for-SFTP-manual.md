@@ -15,9 +15,9 @@ SFTP 있었지. EC2 Instance에 FTP를 설치하고 S3스토리지를 붙여서 
 하지만 이것저것 여러개 건드릴 필요 없이 AWS에서 서비스로 제공해 준다니 얼마나 좋나.<br>
 당연히 장애도 안나겠지 ??? ~~저번주에 장애가 아주그냥~~ <br>
 새로운 서비스가 나왔으니 당연히 누구보다 빠르게 남들과는 다르게 신규 서비스를 이용해 보자.<br>
+<br>
 [AWS IAM](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/introduction.html)<br>
 <br>
-
 ~~==**IAM**==을 먼저 학습하지 않으면 겁나 빡칠 수 있으니 선행 학습을 하고 오자~~
 <p style='color:red'>삽질 하지 않도록 최대한 쉬운 방법을 기술할 예정이니 IAM은 건너 뛰고 당장 만들어 보자</p>
 

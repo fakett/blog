@@ -39,13 +39,13 @@ SFTP 있었지. EC2 Instance에 FTP를 설치하고 S3스토리지를 붙여서 
 ![Create server](https://fakett.github.io/blog/images/sftp/1.png)
 - Create server를 선택 한다.
 
-![Create server](../images/sftp/2.png)
-![Create server](../images/sftp/3.png)
+![Create server](https://fakett.github.io/blog/images/sftp/2.png)
+![Create server](https://fakett.github.io/blog/images/sftp/3.png)
 - DNS configuration 부분은 [**None**] (DNS연결하려면 해도 된다.)
 - 모든 옵션은 디폴트로 쉬운 정책이기 떄문에 딱보면 안다. (~~모르겠으면 리플남기세요~~)
 - Create server 눌러 서버 생성 시작!!
 
-![Create server](../images/sftp/4.png)
+![Create server](https://fakett.github.io/blog/images/sftp/4.png)
 - 잠깐 기다리면 [**state**]가 Online으로 바뀐다,
 - 이렇게 쉽게 서버가 만들어졌다.
 - Server ID를 선택하여 SFTP에 사용할 유저를 만들러 가자.

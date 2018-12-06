@@ -36,7 +36,7 @@ SFTP 있었지. EC2 Instance에 FTP를 설치하고 S3스토리지를 붙여서 
 인줄 알았는데 이제 하다보면 구린 기운이 올라온다.
 자 그지 같음은 내가 다 겪었으니 이글을 보시는 분은 찬찬히 따라해 봅시다.
 ### Create Server
-![Create server](https://github.com/fakett/blog/tree/master/images/sftp/1.png)
+![Create server](./images/sftp/1.png)
 - Create server를 선택 한다.
 
 ![Create server](../images/sftp/2.png)

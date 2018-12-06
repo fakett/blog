@@ -20,7 +20,7 @@ SFTP 있었지. EC2 Instance에 FTP를 설치하고 S3스토리지를 붙여서 
 <br>
 ~~==**IAM**==을 먼저 학습하지 않으면 겁나 빡칠 수 있으니 선행 학습을 하고 오자~~
 <p style='color:red'>삽질 하지 않도록 최대한 쉬운 방법을 기술할 예정이니 IAM은 건너 뛰고 당장 만들어 보자</p>
-
+<br>
 ## AWS Transfer for SFTP 설정
 ### How it works
 **한글 문서**는 없으니 영문을 먼저 살펴보자

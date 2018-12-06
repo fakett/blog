@@ -6,8 +6,8 @@ categories: [AWS,S3,SFTP]
 tags: [AWS]
 comments: true
 ---
-
-
+<br>
+<br>
 ## AWS Transfer for SFTP 출시
 [AWS Transfer for SFTP](http://console.aws.amazon.com/transfer/)<br>
 AWS Transfer for SFTP가 출시 되었다. 주위 사람들은 아직도 AWS에 SFTP가 없었냐는 말을 한다.

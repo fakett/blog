@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS Transfer for SFTP
-excerpt: "JAWS Transfer for SFTP 설정: AWS SFTP, AWS S3, AWS IAM"
+excerpt: "AWS Transfer for SFTP 설정: AWS SFTP, AWS S3, AWS IAM"
 categories: [AWS,S3,SFTP]
 tags: [AWS]
 comments: true
@@ -50,6 +50,6 @@ SFTP 있었지. EC2 Instance에 FTP를 설치하고 S3스토리지를 붙여서 
 - 이렇게 쉽게 서버가 만들어졌다.
 - Server ID를 선택하여 SFTP에 사용할 유저를 만들러 가자.
 
-### 2부에서 계속 ###
+[2부 Add user]()
 
 

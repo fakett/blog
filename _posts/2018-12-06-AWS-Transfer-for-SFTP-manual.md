@@ -50,6 +50,6 @@ SFTP 있었지. EC2 Instance에 FTP를 설치하고 S3스토리지를 붙여서 
 - 이렇게 쉽게 서버가 만들어졌다.
 - Server ID를 선택하여 SFTP에 사용할 유저를 만들러 가자.
 
-[2부 Add user](https://fakett.github.io/blog/aws/s3/sftp/2018/12/06/AWS-Transfer-for-SFTP-manual_2.html)
+[2부 Add user](https://fakett.github.io/blog/aws/s3/sftp/ssh/ssh%20key/2018/12/06/AWS-Transfer-for-SFTP-manual_2.html)
 
 
